@@ -1,0 +1,23 @@
+{
+  "name": "algorithm-exercise-01",
+  "version": "1.0.0",
+  "description": "Sumarize numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --parallel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelipundio/algorithm-exercise-01.git"
+  },
+  "author": "fndefunction",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelipundio/algorithm-exercise-01/issues"
+  },
+  "homepage": "https://github.com/gelipundio/algorithm-exercise-01#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
