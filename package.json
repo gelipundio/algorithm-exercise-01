@@ -4,7 +4,8 @@
   "description": "Sumarize numbers",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --parallel"
+    "test": "mocha --parallel",
+    "start": "node solution.js"
   },
   "repository": {
     "type": "git",
